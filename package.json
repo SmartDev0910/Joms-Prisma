@@ -1,0 +1,29 @@
+{
+  "name": "joms-prisma",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000J\u0000o\u0000m\u0000s\u0000-\u0000P\u0000r\u0000i\u0000s\u0000m\u0000a\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SmartDev0910/Joms-Prisma.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SmartDev0910/Joms-Prisma/issues"
+  },
+  "homepage": "https://github.com/SmartDev0910/Joms-Prisma#readme",
+  "devDependencies": {
+    "@types/node": "^18.14.6",
+    "prisma": "^4.11.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.5"
+  },
+  "dependencies": {
+    "@prisma/client": "^4.11.0"
+  }
+}
